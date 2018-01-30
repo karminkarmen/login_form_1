@@ -5,4 +5,4 @@ Project of login form. Picked pen on codepen.
 
 **Technologies: HTML, CSS**
 
-<a href="https://karminkarmen.github.io/login-form-1/">**LINK TO PREWIEV**</a>
+<a href="https://karminkarmen.github.io/login-form-1/">**LINK TO PREVIEW**</a>
