@@ -3,6 +3,6 @@
 Project of login form. Picked pen on codepen.
 <a href="https://codepen.io/karminkarmen/pen/brgOVo/">**LINK TO CODEPEN**</a>
 
-**Technologies: HTML, CSS**
+**Technologies: HTML, SASS, gulp**
 
 <a href="https://karminkarmen.github.io/login-form-1/">**LINK TO PREVIEW**</a>
