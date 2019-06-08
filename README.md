@@ -5,4 +5,4 @@ Project of login form. Picked pen on codepen.
 
 **Technologies: HTML, SASS, gulp**
 
-<a href="https://karminkarmen.github.io/login-form-1/">**LINK TO PREVIEW**</a>
+<a href="https://karminkarmen.github.io/login_form_1/">**LINK TO PREVIEW**</a>
